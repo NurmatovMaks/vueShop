@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "1",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "2",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "3",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "4",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "5",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "6",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "7",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "8",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "9",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "10",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "11",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "12",
+      "available": true
+    },
+    {
+      "image": "https://images.ru.prom.st/827238710_w200_h200_smartfon-apple-iphone.jpg",
+      "name": "Iphone4S",
+      "price": 300,
+      "article": "13",
+      "available": true
+    }
+  ]
+}
